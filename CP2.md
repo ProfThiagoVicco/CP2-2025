@@ -41,14 +41,13 @@ Este projeto faz parte do CP2 da disciplina Advanced Business Development with .
 
 | Critério                               | Pontos |
 |----------------------------------------|--------|
-| Funcionalidades da API (CRUD, REST)    | 30     |
-| Arquitetura aplicada (DDD, Clean)      | 20     |
-| Banco Oracle + Migrations              | 15     |
-| Documentação Swagger                   | 10     |
-| Uso de MappingConfig + DTO             | 10     |
-| Qualidade do Código + Boas práticas    | 10     |
-| Organização do Repositório             | 5      |
-| **Total**                              | **100**|
+| Funcionalidades da API (CRUD, REST)    | 3     |
+| Arquitetura aplicada (DDD, Clean)      | 2     |
+| Banco Oracle + Migrations              | 2     |
+| Documentação Swagger                   | 1     |
+| Uso de MappingConfig + DTO             | 1     |
+| Qualidade do Código + Boas práticas    | 1     |
+| **Total**                              | **10**|
 
 💡 DICAS IMPORTANTES
 ===============================
@@ -65,20 +64,6 @@ Este projeto faz parte do CP2 da disciplina Advanced Business Development with .
 - RM12346 - Nome Completo
 - RM12347 - Nome Completo
 
-📚 TECNOLOGIAS SUGERIDAS
-===============================
-
-- .NET 8 / ASP.NET Core Web API
-- EF Core + Oracle
-- Swagger / Swashbuckle
-- AutoMapper
-- FluentValidation (opcional)
-- Docker (opcional)
-
-📅 PRAZO DE ENTREGA
-===============================
-
-18 de maio de 2025
 
 Entrega via portal FIAP com link do GitHub
 
