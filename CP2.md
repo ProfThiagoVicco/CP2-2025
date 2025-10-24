@@ -33,26 +33,7 @@ Este projeto faz parte do CP2 da disciplina Advanced Business Development with .
   - Rotas disponíveis
   - Tecnologias utilizadas
   - Instruções de execução
-  - Nome e RM dos integrantes
-
-🎯 Esclarecimento: CP2 x Challenge Final
-===========================
-
-O CP2 tem como objetivo a entrega de um MVP (Produto Mínimo Viável) da aplicação que vocês irão desenvolver de forma mais completa no challenge final da disciplina. Ou seja:
-
-🔹 O CP2 é uma primeira versão funcional, com foco em mostrar a ideia e a estrutura base do sistema. É como um protótipo evoluído, onde queremos ver:
-
-A proposta de solução para o problema da Mottu
-
-A aplicação de boas práticas como Clean Architecture, DDD, e uso correto do Oracle com EF Core
-
-O domínio já sendo modelado com comportamento
-
-Um CRUD básico com documentação
-
-🔹 Já o challenge é a entrega final e mais completa, com mais funcionalidades, refinamentos técnicos e melhorias que vocês não tiveram tempo de implementar no MVP.
-
-Portanto, o que estou pedindo no CP2 é uma versão inicial, não o projeto pronto e completo do challenge. A ideia é validar a direção do grupo, a aplicação dos conceitos e o nível de entendimento técnico até aqui.
+  - Nome e RM dos integrante
 
 
 📊 O QUE SERÁ AVALIADO
