@@ -1,7 +1,7 @@
 CP2 - Advanced Business Development with .NET - 2025
 ===========================
 
-Este projeto faz parte do CP2 da disciplina Advanced Business Development with .NET e tem como objetivo criar uma API RESTful, usando .NET 8 e banco Oracle, aplicando Clean Architecture e Domain-Driven Design (DDD), com foco em solucionar um desafio real da empresa Mottu.
+Este projeto faz parte do CP2 da disciplina Advanced Business Development with .NET e tem como objetivo criar uma API RESTful, usando .NET 8 e banco de dados (ORACLE OU MYSQL), aplicando Clean Architecture e Domain-Driven Design (DDD), com foco em solucionar um desafio real da empresa Mottu.
 
 🎯 O QUE VOCÊ DEVE FAZER
 ===========================
