@@ -16,13 +16,12 @@ Este projeto faz parte do CP2 da disciplina Advanced Business Development with .
 ✅ Aplicar boas práticas de desenvolvimento:
 - Separação por camadas: Domain, Application, Infrastructure, Presentation
 - DTOs, validações e regras de negócio aplicadas nas entidades
-- AutoMapper + MappingConfig
+- MappingConfig
 - Entidades ricas (comportamento + validação de negócio)
 
 ✅ Banco de Dados:
-- Utilização do Oracle via EF Core
+- Utilização do Oracle ou MySQL via EF Core
 - Versionamento com Migrations
-- Uso de variáveis de ambiente para strings de conexão (NUNCA subir a string no repositório)
 
 ✅ Documentação:
 - Swagger/OpenAPI devidamente configurado e funcional
@@ -43,7 +42,7 @@ Este projeto faz parte do CP2 da disciplina Advanced Business Development with .
 |----------------------------------------|--------|
 | Funcionalidades da API (CRUD, REST)    | 3     |
 | Arquitetura aplicada (DDD, Clean)      | 2     |
-| Banco Oracle + Migrations              | 2     |
+| Banco + Migrations                     | 2     |
 | Documentação Swagger                   | 1     |
 | Uso de MappingConfig + DTO             | 1     |
 | Qualidade do Código + Boas práticas    | 1     |
@@ -55,7 +54,7 @@ Este projeto faz parte do CP2 da disciplina Advanced Business Development with .
 - O projeto deve ser ORIGINAL. Não use o exemplo da aula.
 - Escreva código limpo e bem organizado.
 - Proteja dados sensíveis. Nunca suba senhas ao GitHub.
-- IA pode ajudar, mas entenda cada linha do seu código.
+- IA pode ajudar, **mas tente entender cada linha do seu código.**
 
 👥 GRUPO
 ===============================
@@ -65,7 +64,7 @@ Este projeto faz parte do CP2 da disciplina Advanced Business Development with .
 - RM12347 - Nome Completo
 
 
-Entrega via portal FIAP com link do GitHub
+Entrega via portal FIAP com link do GitHub publico
 
 
 “Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda.”
